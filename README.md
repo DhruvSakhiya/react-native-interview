@@ -1,8 +1,8 @@
 to run the project install node modules
-npm install 
+**npm install **
 
 to start the metro server use 
-npm start 
+**npm start **
 
 to run in android device use
-npx react-native run-android
+**npx react-native run-android**
